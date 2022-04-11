@@ -1,3 +1,18 @@
+# Estructura de la BD en Firebase
+URL{
+    heroes{
+        ID: {
+            "debilidad": '',
+            "descripcion": '',
+            "edad": '',
+            "heroe": '',
+            "imagen": '',
+            "nombre": '',
+            "superpoder": ''
+        }
+    }
+}
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

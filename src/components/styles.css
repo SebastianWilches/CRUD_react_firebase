@@ -1,0 +1,36 @@
+span{
+    font-weight: bold;
+}
+
+.margen{
+    margin-bottom: 2rem;
+}
+
+.enlacesNav{
+    color: white;
+    font-size: 20px;
+}
+.enlacesNav:hover{
+    color:#DBF227;
+}
+
+.navBar{
+    background-color: #042940;
+}
+
+.titulo{
+    font-size: 30px;
+}
+.titulo2{
+    font-size: 34px;
+}
+
+.fondoTarjeta{
+    background-color: #005C53;
+}
+.fondoTarjetaActualizar{
+    background-color: #005C53;
+}
+.letraTarjeta{
+    color:white;
+}
